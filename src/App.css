@@ -1,0 +1,41 @@
+
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: italic;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.instrument-serif-regular-italic {
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+
+
+.sora-regular {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.corsion{
+  display: block;
+  background-color: blue;
+  width: 135px;
+  height: 135px;
+  transform: scale(0.2);
+  background: scale(0.2);
+  background: linear-gradient(180deg,#a5aaff 0%,#000dff 130%);
+  box-shadow: 0 10px 30px #3c46ff78;
+  border-radius: 50%;
+  filter: blur(10px);
+  transition: transform .25s ease-in-out, opacity .1s
+}
+
+
